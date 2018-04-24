@@ -16,5 +16,11 @@
     "url": "https://github.com/EdgarSpickerman/starwars-fs/issues"
   },
   "homepage": "https://github.com/EdgarSpickerman/starwars-fs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "firebase": "^4.13.1"
+  }
 }
